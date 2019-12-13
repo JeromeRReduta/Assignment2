@@ -5,6 +5,10 @@ Finished 11:35 PM, 12 Dec. 2019
 Works as intended, but probably could be a lot more efficient.
 Takes a good like 10 seconds to get the graph working, but it works.
 
+Honestly wasn't sure how the filepath argument on the command line would
+work so I just added a path literally called "tmp/data_files" so the
+given command line arg would work.
+
 NOTE: The paths are not the same as the example, but they
     have the same length so I'm happy with that.
 
