@@ -3,7 +3,9 @@ Jerome Reduta
 Finished 11:35 PM, 12 Dec. 2019
 
 Works as intended, but probably could be a lot more efficient.
-Note that the paths are not the same as the example, but they
+Takes a good like 10 seconds to get the graph working, but it works.
+
+NOTE: The paths are not the same as the example, but they
     have the same length so I'm happy with that.
 
 Credit:

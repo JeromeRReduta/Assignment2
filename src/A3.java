@@ -100,7 +100,7 @@ public class A3 {
     }
 
     public static void main(String[] args) throws Exception {
-        File f = new File("src/tmdb_5000_credits.csv");
+        File f = new File(args[0]);
         Scanner scan = new Scanner(System.in);
         BufferedReader br = new BufferedReader(new FileReader(f));
 
