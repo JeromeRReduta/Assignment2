@@ -1,0 +1,33 @@
+
+
+To do:
+IntelliJ roasted:
+     .-""""""-.
+   .'          '.
+  /   O      O   \
+ :           `    :
+ |                |   sad
+ :    .------.    :
+  \  '        '  /
+   '.          .'
+jgs  '-......-'
+
+Read file - 2P/2P:
+    Find way to read file (maybe store each object into string) - 2P/2P
+
+Make graph - 2P / 2P:
+    Figure out how to add everyone to graph
+    Figure out how to connect everyone in graph to coworkers
+
+Make shortest path algo - 4P / 4P
+    Find better way than Djikstra to find shortest path between two points - 2P/2P
+        This is pretty good if you can convert it from C++: https://www.geeksforgeeks.org/shortest-path-unweighted-graph/
+        (Make sure to cite)
+
+    Test w/ sample, handmade graph - 1P / 1P
+
+
+    Implement it - 1P / 1P
+
+Total: 6P/6P or 3 hrs
+
